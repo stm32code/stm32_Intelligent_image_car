@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "l298n.h": "c",
+            "stm32f10x.h": "c"
+        }
+    },
+    "extensions": {}
+}
